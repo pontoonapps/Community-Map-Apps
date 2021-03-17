@@ -1,5 +1,6 @@
 # CommunityMap (Android & iOS)
-Android and iOS version of the Community Map
+Android and iOS version of the Community Map 
+Community is a mobile app which is able to link Community groups, teams or services together with their members. The Training Centres or Services can place pins of locations they want their members to know about on a map and then share them via email with those members. The users can remove themselves from services they do not wish to see, filter the pins by category and see all information the Service has provided.
 
 <p align="center">
   <img src="interregLogo.png" width="400" title="Interreg Logo">
