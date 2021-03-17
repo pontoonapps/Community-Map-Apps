@@ -18,6 +18,10 @@ Total Project Budget: €5.79 million
 Project Duration: 3.5 years
 ```
 
+## More Information
+
+Visit our website for more information about the [PONToon Project](https://www.pontoonproject.eu/) 
+
 ## Building Android
 1) Open PONToonMap folder with Android Studio and wait for gradle files to be installed if required.
 2) Build.
