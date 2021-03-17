@@ -1,0 +1,51 @@
+
+/* Class = "UITextView"; text = "Phone"; ObjectID = "9TF-lh-3dP"; */
+"9TF-lh-3dP.text" = "Téléphone";
+
+/* Class = "UISegmentedControl"; ARl-YI-vsC.segmentTitles[0] = "Doctors Surgery"; ObjectID = "ARl-YI-vsC"; */
+"ARl-YI-vsC.segmentTitles[0]" = "Médecins";
+
+/* Class = "UISegmentedControl"; ARl-YI-vsC.segmentTitles[1] = "Childcare"; ObjectID = "ARl-YI-vsC"; */
+"ARl-YI-vsC.segmentTitles[1]" = "Crèche";
+
+/* Class = "UISegmentedControl"; ARl-YI-vsC.segmentTitles[2] = "Education"; ObjectID = "ARl-YI-vsC"; */
+"ARl-YI-vsC.segmentTitles[2]" = "Éducation";
+
+/* Class = "UISegmentedControl"; ARl-YI-vsC.segmentTitles[3] = "Library"; ObjectID = "ARl-YI-vsC"; */
+"ARl-YI-vsC.segmentTitles[3]" = "Bibliothèque";
+
+/* Class = "UISegmentedControl"; ARl-YI-vsC.segmentTitles[4] = "Transport"; ObjectID = "ARl-YI-vsC"; */
+"ARl-YI-vsC.segmentTitles[4]" = "Transport";
+
+/* Class = "UISegmentedControl"; ARl-YI-vsC.segmentTitles[5] = "Hospital / A&E"; ObjectID = "ARl-YI-vsC"; */
+"ARl-YI-vsC.segmentTitles[5]" = "Hôpitaux";
+
+/* Class = "UISegmentedControl"; ARl-YI-vsC.segmentTitles[6] = "Dentist"; ObjectID = "ARl-YI-vsC"; */
+"ARl-YI-vsC.segmentTitles[6]" = "Dentiste";
+
+/* Class = "UISegmentedControl"; ARl-YI-vsC.segmentTitles[7] = "Community Centre"; ObjectID = "ARl-YI-vsC"; */
+"ARl-YI-vsC.segmentTitles[7]" = "Centres communautaires";
+
+/* Class = "UISegmentedControl"; ARl-YI-vsC.segmentTitles[8] = "Health"; ObjectID = "ARl-YI-vsC"; */
+"ARl-YI-vsC.segmentTitles[8]" = "Santé";
+
+/* Class = "UISegmentedControl"; ARl-YI-vsC.segmentTitles[9] = "Practical Life"; ObjectID = "ARl-YI-vsC"; */
+"ARl-YI-vsC.segmentTitles[9]" = "Vie Pratique";
+
+/* Class = "UISegmentedControl"; ARl-YI-vsC.segmentTitles[10] = "Cultural sites"; ObjectID = "ARl-YI-vsC"; */
+"ARl-YI-vsC.segmentTitles[10]" = "Lieux culturels";
+
+/* Class = "UISegmentedControl"; ARl-YI-vsC.segmentTitles[11] = "All"; ObjectID = "ARl-YI-vsC"; */
+"ARl-YI-vsC.segmentTitles[11]" = "Other";
+
+/* Class = "UISegmentedControl"; ARl-YI-vsC.segmentTitles[11] = "All"; ObjectID = "ARl-YI-vsC"; */
+"ARl-YI-vsC.segmentTitles[12]" = "Toute";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "JEA-Xp-sDy"; */
+"JEA-Xp-sDy.text" = "La description";
+
+/* Class = "UITextView"; text = "Website"; ObjectID = "SGc-qH-6pb"; */
+"SGc-qH-6pb.text" = "Site Internet";
+
+/* Class = "UITextView"; text = "Address"; ObjectID = "cH5-WY-ZVs"; */
+"cH5-WY-ZVs.text" = "Adresse";
